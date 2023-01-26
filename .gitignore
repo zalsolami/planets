@@ -1,0 +1,2 @@
+*.dat           # ignore all data files
+!final.dat      # except final.datah
